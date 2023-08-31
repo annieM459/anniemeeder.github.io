@@ -1,5 +1,5 @@
-Title: Annie Meeder
-Description: PhD Student
+Annie Meeder
+PhD Student
 
 University of Colorado Boulder
 
