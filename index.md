@@ -10,7 +10,8 @@ View of Santa Rosa Island from Christy Beach on Santa Cruz Island.
 
 * [Maximum Yearly Temperatures in Anchorage, Alaska]()
 Trip to Anchorage, Alaska!
-  <img width="985" alt="Screenshot 2023-09-14 at 5 25 48 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/230d098c-223f-4a39-8dba-1520a779a16e">
+
+<img width="985" alt="Screenshot 2023-09-14 at 5 25 48 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/230d098c-223f-4a39-8dba-1520a779a16e">
 
 A clear view of Denali from Anchorage
 <img width="977" alt="Screenshot 2023-09-14 at 5 25 42 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/bbfd62ef-001f-4301-9a0c-2fe409c04a79">
