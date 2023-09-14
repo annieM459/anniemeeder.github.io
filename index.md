@@ -9,6 +9,7 @@ View of Santa Rosa Island from Christy Beach on Santa Cruz Island.
 ## Project #1
 
 * [Maximum Yearly Temperatures in Anchorage, Alaska](https://anniem459.github.io/anniemeeder.github.io/Notebooks/temp_max.html)
+
 Trip to Anchorage, Alaska!
 
 <img width="985" alt="Screenshot 2023-09-14 at 5 25 48 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/230d098c-223f-4a39-8dba-1520a779a16e">
