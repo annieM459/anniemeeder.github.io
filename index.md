@@ -17,4 +17,5 @@ Here, I graphed changes in temperature anomalies over time in Hilo, Hawaii USA.
 * [Flood Return Period in San Luis Obispo, California](https://anniem459.github.io/anniemeeder.github.io/Notebooks/time-series-data-SLO.html)
 
 Image from 2023 January San Luis Obispo Floods!
+<img width="494" alt="Screenshot 2023-09-14 at 5 20 20 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/72b8ee73-c3ab-49a4-a17d-e21e3a5e02da">
 <img width="1323" alt="Screenshot 2023-09-14 at 5 17 27 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/aef3556d-9e83-4ec3-b600-521c9f3b7202">
