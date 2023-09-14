@@ -14,4 +14,4 @@ Here, I graphed changes in temperature anomalies over time in Hilo, Hawaii USA.
 
 ## Project #2
 
-* [Flood Return Period in San Luis Obispo, California](https://github.com/annieM459/anniemeeder.github.io/blob/main/Notebooks/time-series-data-SLO.html)
+* [Flood Return Period in San Luis Obispo, California](https://anniem459.github.io/anniemeeder.github.io/Notebooks/time-series-data-SLO.html)
