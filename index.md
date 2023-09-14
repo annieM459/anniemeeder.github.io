@@ -12,6 +12,6 @@ Here, I graphed changes in temperature anomalies over time in Hilo, Hawaii USA.
 
 <img width="673" alt="Screenshot 2023-09-08 at 6 18 54 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/10605dc8-07b2-443b-a669-0f9708977de0">
 
-##Project #2
+## Project #2
 
-*Notebooks/time-series-data-SLO.html*
+[https://github.com/annieM459/anniemeeder.github.io/blob/main/Notebooks/time-series-data-SLO.html]
