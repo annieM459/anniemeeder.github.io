@@ -25,3 +25,21 @@ A clear view of Denali from Anchorage
 Image from 2023 January San Luis Obispo Floods!
 <img width="559" alt="Screenshot 2023-09-14 at 5 21 23 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/8b44aa51-0e84-4a97-9c52-7d54e495feb5">
 <img width="1323" alt="Screenshot 2023-09-14 at 5 17 27 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/aef3556d-9e83-4ec3-b600-521c9f3b7202">
+
+## Project #3
+
+* [An Assessment of Vegetation Return Post Fire in California, A Case Study on the Kerlin Fire](https://anniem459.github.io/anniemeeder.github.io/Notebooks/fire_veg.html)
+
+<img width="1016" alt="Screenshot 2023-10-01 at 11 42 17 AM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/dd25c2a8-86c3-47a7-b23a-fe20b2aa8b68">
+
+## Project #4
+
+* [Wildfires are becoming larger, and more frequent in many parts of the U.S.](https://anniem459.github.io/anniemeeder.github.io/Notebooks/wildfire.html)
+<img width="1191" alt="Screenshot 2023-10-17 at 2 21 15 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/8f890b3a-46e5-49ee-8f1d-92c7dd7d23a6">
+
+
+
+
+
+  
+
