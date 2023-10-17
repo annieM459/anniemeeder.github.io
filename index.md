@@ -32,6 +32,14 @@ Image from 2023 January San Luis Obispo Floods!
 
 <img width="1016" alt="Screenshot 2023-10-01 at 11 42 17 AM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/dd25c2a8-86c3-47a7-b23a-fe20b2aa8b68">
 
+## Project #4
+
+* [Wildfires are becoming larger, and more frequent in many parts of the U.S.](https://anniem459.github.io/anniemeeder.github.io/Notebooks/wildfire.html)
+<img width="1191" alt="Screenshot 2023-10-17 at 2 21 15 PM" src="https://github.com/annieM459/anniemeeder.github.io/assets/140002702/8f890b3a-46e5-49ee-8f1d-92c7dd7d23a6">
+
+
+
+
 
   
 
